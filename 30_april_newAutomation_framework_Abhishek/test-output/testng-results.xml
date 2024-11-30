@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-25T15:27:18 IST" name="Default suite" finished-at="2024-08-25T15:27:31 IST" duration-ms="13814">
+    <groups>
+    </groups>
+    <test started-at="2024-08-25T15:27:18 IST" name="Default test" finished-at="2024-08-25T15:27:31 IST" duration-ms="13814">
+      <class name="testingbaba_tests.Radiobttn_test">
+        <test-method is-config="true" signature="getLaunchurl()[pri:0, instance:testingbaba_tests.Radiobttn_test@384ad17b]" started-at="2024-08-25T15:27:18 IST" name="getLaunchurl" finished-at="2024-08-25T15:27:26 IST" duration-ms="8388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchurl -->
+        <test-method signature="clickonclosebtn()[pri:0, instance:testingbaba_tests.Radiobttn_test@384ad17b]" started-at="2024-08-25T15:27:26 IST" name="clickonclosebtn" finished-at="2024-08-25T15:27:26 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonclosebtn -->
+        <test-method signature="clickonpractice()[pri:1, instance:testingbaba_tests.Radiobttn_test@384ad17b]" started-at="2024-08-25T15:27:26 IST" name="clickonpractice" finished-at="2024-08-25T15:27:29 IST" duration-ms="2521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonpractice -->
+        <test-method signature="clickOnElements()[pri:2, instance:testingbaba_tests.Radiobttn_test@384ad17b]" started-at="2024-08-25T15:27:29 IST" name="clickOnElements" finished-at="2024-08-25T15:27:29 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnElements -->
+        <test-method signature="clickOnRadiobtn()[pri:3, instance:testingbaba_tests.Radiobttn_test@384ad17b]" started-at="2024-08-25T15:27:29 IST" name="clickOnRadiobtn" finished-at="2024-08-25T15:27:29 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnRadiobtn -->
+        <test-method signature="clickOncondition()[pri:4, instance:testingbaba_tests.Radiobttn_test@384ad17b]" started-at="2024-08-25T15:27:29 IST" name="clickOncondition" finished-at="2024-08-25T15:27:31 IST" duration-ms="2233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOncondition -->
+      </class> <!-- testingbaba_tests.Radiobttn_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testingbaba">
+  <test  name="Login">
+    <classes>
+     
+      <class name="testingbaba_tests.Login_test"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TextBox">
+<classes>
+	<class name="testingbaba_tests.TextBox_Test"/>
+</classes>
+  </test> 
+</suite> <!-- Suite -->
